@@ -11,6 +11,8 @@
   </a> 
 </p>
 
+
+
 ###  👨🏻 About Me
 - 🏫 I’m currently studying at **Sister Nivedita University** holding a **CGPA of more than 9**
 - 🌱 I’m currently learning to **Write Smart Contracts in Solidity**
@@ -95,9 +97,11 @@
   </a> 
 </p>
 
+<p> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manovHacksaw&bg_color=000000&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&theme=gruvbox"/></p>
 
 
-<p>&nbsp;<img align="center" width="520px" style="padding: 0px 100px" src="https://github-readme-stats.vercel.app/api?username=manovhacksaw&show_icons=true&locale=en&bg_color=000000&title_color=fbff00&text_color=ffffff&icon_color=fbff00" alt="manovhacksaw" /></p>
+
+<p>&nbsp;<img align="center" width="500px" style="margin: 0; padding: 0px 100px" src="https://github-readme-stats.vercel.app/api?username=manovhacksaw&show_icons=true&locale=en&bg_color=000000&title_color=fbff00&text_color=ffffff&icon_color=fbff00" alt="manovhacksaw" /></p>
 
 
 <p>

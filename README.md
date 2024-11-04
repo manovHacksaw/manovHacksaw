@@ -22,9 +22,9 @@
 - 👨‍💻 Currently working on a **Web3.0 Project** called `voting-dapp`
 
 ### 👨‍💻 My Latest Projects:
-- **Crowdfunding Platform:** Decentralized crowdfunding platform with Open Campus blockchain.
+- **Plaia Zone:** Decentralized crowdfunding and crowdlending platform for gamers and their needs, built on AIA Blockchain.
 - **Spotify Clone:** A clone of Spotify built using HTML, CSS, and JavaScript.
-- **Advanced Todo App:** Full-stack MERN app with Google authentication and advanced filtering.
+- **Newscope:** Full-stack News/Blog Application with role based users.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

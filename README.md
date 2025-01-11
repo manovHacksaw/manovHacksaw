@@ -15,11 +15,11 @@
 
 ###  👨🏻 About Me
 - 🏫 I’m currently studying at **Sister Nivedita University** holding a **CGPA of more than 9**
-- 🌱 I’m currently learning to **Write Smart Contracts in Solidity**
+- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **MERN Stack, Blockchain Development**
 - 🏆 **Winner** of the Anon Aadhar Prize Pool at **Hacker House Goa 2024** 
 - 🚀 I’ve built a **Blog Application** using MERN Stack, a **Crowdfunding Platform**, and more!
-- 👨‍💻 Currently working on a **Web3.0 Project** called `voting-dapp`
+- 👨‍💻 Currently trying to build  a **Web3.0 Project** that eliminates the risk of loosing crypto assets
 
 ### 👨‍💻 My Latest Projects:
 - **Plaia Zone:** Decentralized crowdfunding and crowdlending platform for gamers and their needs, built on AIA Blockchain.

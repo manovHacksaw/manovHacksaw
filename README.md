@@ -14,7 +14,7 @@
 
 
 ###  👨🏻 About Me
-- 🏫 I’m currently studying at **Sister Nivedita University** holding a **CGPA of more than 9**
+- 🏫 I’m a BCA graduate with  a **CGPA of 9.16**
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **MERN Stack, Blockchain Development**
 - 🏆 **Winner** of the Anon Aadhar Prize Pool at **Hacker House Goa 2024** 

@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **MERN Stack, Blockchain Development**
 - 🏆 **Winner** of the Anon Aadhar Prize Pool at **Hacker House Goa 2024** 
-- 🚀 I’ve built a **Blog Application** using MERN Stack, a **Crowdfunding Platform**, and more!
 - 👨‍💻 Currently trying to build  a **Web3.0 Project** that eliminates the risk of loosing crypto assets
 
 ### 👨‍💻 My Latest Projects:
